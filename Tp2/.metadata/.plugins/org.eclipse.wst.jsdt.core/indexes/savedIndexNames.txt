@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\pc\Downloads\javacard\Tp2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+80975254.index
+109702577.index
+630261105.index
+3758003854.index
+1182783874.index
